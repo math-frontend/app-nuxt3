@@ -7,7 +7,9 @@
             <h2>{{ appConfig.title }}</h2>
             <h3>Você é desenvolvedor? Cade sua página? Seus projetos?</h3>
             <hr />
-            <hello />
+            <headerDefault />
+            <footerDefault />
+            <br />
             <small>cores do sistema</small>
             <h6>{{ colors }}</h6>
           </v-col>

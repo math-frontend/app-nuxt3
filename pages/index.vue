@@ -10,13 +10,14 @@
             <headerDefault />
             <footerDefault />
             <br />
+            <hr />
             <small>cores do sistema</small>
             <h6>{{ colors }}</h6>
           </v-col>
         </v-row>
       </v-container>
     </section>
-    <section>
+    <!-- <section>
       <v-container>
         <v-row>
           <v-col cols="6">
@@ -27,7 +28,7 @@
           </v-col>
         </v-row>
       </v-container>
-    </section>
+    </section> -->
   </div>
 </template>
 
